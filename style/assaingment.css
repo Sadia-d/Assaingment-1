@@ -17,8 +17,36 @@ margin-top: 10px;
 }
 .banner{
     background-image: url('../resources/Banner\ Image.png');
-    width: 1270px;
+    width: 1250px;
 height: 600px;
 text-align: center;
 border-radius: 16px;
+margin-top: 50px;
+margin-left: 20px;
+}
+
+
+main body
+
+ .section-container h1,p,h3{
+    font-family: Inter;
+    text-align: center;
+ }   
+.section-dicount{
+    color: #F00;
+font-size: 70px;
+font-weight: 700;
+padding: 100px 468px 20px 468px;
+width: 383px;
+}
+.section-discont-title{
+    color: #F00;
+font-size: 20px;
+font-weight: 500;
+}
+.section-dicount-type{
+    color: #070211;
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
 }

@@ -36,17 +36,31 @@ main body
     color: #F00;
 font-size: 70px;
 font-weight: 700;
-padding: 100px 468px 20px 468px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 100px;
+margin-bottom: 30px;
 width: 383px;
 }
 .section-discont-title{
     color: #F00;
 font-size: 20px;
 font-weight: 500;
+
 }
 .section-dicount-type{
     color: #070211;
 font-family: Inter;
 font-size: 40px;
-font-weight: 700;
+font-weight: 700px;
+margin-bottom: 40px;
+}
+.new-year-photo{
+    display: block;
+    width: 700px;
+height: 450px;
+margin-left: auto;
+margin-right: auto;
+
 }

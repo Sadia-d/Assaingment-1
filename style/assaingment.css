@@ -108,3 +108,33 @@ padding: 68px 130px 67px 30px;
 .section-content{
   padding: 20px 0px 142px 126px ;  
 }
+
+
+.places{
+    color: #F00;
+font-size: 25px;
+font-weight: 600;
+}
+.section-type{
+    color: #070211;
+font-size: 25px;
+line-height: 56px;
+display:;
+}
+.btn-praimary{
+padding: 16px 30px;
+border-radius: 8px;
+background: #F00;
+color: #FFF;
+font-size: 20px;
+font-weight: 500;
+text-transform: uppercase;
+margin-top: 40px;
+}
+.section-subject{
+    font-family: Inter; 
+   background-color:rgb(245, 228, 231);
+height: 200px;
+margin-top: 145px;
+padding:250px 400px  ;
+}

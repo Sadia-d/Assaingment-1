@@ -2,13 +2,13 @@ body{
     font-family: 'Merriweather', serif;
 }
 .banner-title{
-    color:#FFFFFF ;
+    color: #FFF;
 font-size: 32px;
 font-weight: 400;
 padding-top: 170px ;
 }
 .banner-title-2{
-    color: #FFF;
+    color: #FFF; 
 font-size: 72px;
 font-weight: 900;
 width: 632px;
@@ -18,6 +18,7 @@ margin-top: 10px;
 .banner{
     background-image: url('../resources/Banner\ Image.png');
     width: 1250px;
+    filter: brightness(70%);
 height: 600px;
 text-align: center;
 border-radius: 16px;
@@ -28,10 +29,10 @@ margin-left: 20px;
 
 main body
 
- .section-container h1,p,h3{
-    font-family: Inter;
+ .section-container ,h1,p ,h3{
     text-align: center;
- }   
+font-family: Inter;
+ }
 .section-dicount{
     color: #F00;
 font-size: 70px;
@@ -51,16 +52,46 @@ font-weight: 500;
 }
 .section-dicount-type{
     color: #070211;
-font-family: Inter;
 font-size: 40px;
 font-weight: 700px;
-margin-bottom: 40px;
+line-height: 0px;
 }
 .new-year-photo{
     display: block;
     width: 700px;
 height: 450px;
+padding-top: 40px;
 margin-left: auto;
 margin-right: auto;
+}
 
+
+.welcome{
+    background-image: url('../resources/Vectorrr.png');
+    height: 600px;
+    border-radius: 16px;
+   
+}
+.section-title{
+    color: #FFF;
+font-size: 64px;
+font-weight: 900;
+line-height: 82px; 
+letter-spacing: 6px;
+width: 600px;
+}
+.section-description{
+    color: rgba(255, 255, 255, 0.80);
+font-size: 18px;
+font-weight: 400;
+}
+.btn{
+    color: #FFF;
+    background-color: #07021100;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+}
+.section-description , .btn {
+    font-family: Inter;
 }

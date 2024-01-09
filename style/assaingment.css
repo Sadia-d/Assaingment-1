@@ -253,56 +253,41 @@ background-color: #F00;
  border-radius: 50px 0px 0px 50px;
 }
 
-.footer-section{
-    width: 1600px;
-height: 609px;
-background: #070211;
-display: flex;
-padding-top: 120px;
-}
-.footer-address{
-    color: #FFF;
-font-family: Inter;
-font-size: 24px;
-line-height: 40px; 
-padding-left: 120px;
-}
-
-.contact{
-    display: block;
-    color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px;
-padding-left: 400px;
-}
-
 footer{
-    display: flex;
-    background: #070211;
-    height: 500px;
-    padding: 100px 200px;
     margin-top: 100px;
-    gap: 250px;
-}
- .footer-column {
-    width: 50%;
-    color: #FFF;
-font-family: Inter;
-font-size: 18px;
-font-weight: 500;
-line-height: 40px; 
 }
 
-.contact-{
-  padding: 0px;  
-  margin-right:80px;
+.footer-section{
+    background-color: black;
+    height: 600px;
+}
+
+
+.footer-container{
+ color: #FFF;
+ padding-top: 100px;
+ padding-left: 120px;
+ display: flex;
+ margin-bottom: 50px;
+}
+
+.addresss-num{
+    padding-left: 400px;
+}
+
+.call-img{
+    width: 20px;
+height: 20px;
+display: inline-flex;
+
 }
 
 .icon-img{
-    width: 24px;
-height: 24px;
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 40px;
 }
 
+.icon-images{
+    padding-left: 24px;
+}

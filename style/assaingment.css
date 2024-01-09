@@ -259,7 +259,7 @@ footer{
 
 .footer-section{
     background-color: black;
-    height: 600px;
+    height: 550px;
 }
 
 
@@ -291,3 +291,14 @@ display: inline-flex;
 .icon-images{
     padding-left: 24px;
 }
+
+
+.footer-end{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-top: 50px;
+display: flex;
+}
+

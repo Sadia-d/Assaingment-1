@@ -279,3 +279,30 @@ line-height: 40px;
 padding-left: 400px;
 }
 
+footer{
+    display: flex;
+    background: #070211;
+    height: 500px;
+    padding: 100px 200px;
+    margin-top: 100px;
+    gap: 250px;
+}
+ .footer-column {
+    width: 50%;
+    color: #FFF;
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 40px; 
+}
+
+.contact-{
+  padding: 0px;  
+  margin-right:80px;
+}
+
+.icon-img{
+    width: 24px;
+height: 24px;
+}
+

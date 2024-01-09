@@ -93,7 +93,7 @@ font-weight: 400;
 }
 .btn{
     color: #FFF;
-    background-color: #07021100;
+   background-color: black;
     font-size: 20px;
 font-weight: 700;
 text-transform: uppercase;
@@ -249,3 +249,30 @@ background-color: #F00;
  width: 300px;
  border-radius: 50px 0px 0px 50px;
 }
+
+.footer-section{
+    width: 1600px;
+height: 609px;
+background: #070211;
+display: flex;
+padding-top: 120px;
+}
+.footer-address{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+line-height: 40px; 
+padding-left: 120px;
+}
+
+.contact{
+    display: block;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+padding-left: 400px;
+}
+
